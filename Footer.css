@@ -1,0 +1,33 @@
+.tinderFooter {
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    background-color: #FFA319;
+    padding: 10px;
+    position: fixed;
+    bottom: 0px;
+}
+
+.tinderFooter .replay{
+    padding: 3v !important;
+    box-shadow:0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+}
+
+.tinderFooter .close{
+    color: black;
+    padding: 3v !important;
+    box-shadow:0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+}
+
+.tinderFooter .star{
+    color: yellow;
+    padding: 3v !important;
+    box-shadow:0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+}
+
+.tinderFooter .favorite{
+    color: red;
+    padding: 3v !important;
+    box-shadow:0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+}
+

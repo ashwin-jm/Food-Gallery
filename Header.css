@@ -1,0 +1,19 @@
+.tinderHeader{
+    background-color: #FFA319;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.personIcon{
+    padding: 20px;
+    color: black;
+    
+}
+
+.chatIcon{
+    padding: 20px;
+    color: black;
+}
+
